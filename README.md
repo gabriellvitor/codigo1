@@ -1,4 +1,4 @@
-# codigo1
+//# codigo1
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -22,3 +22,4 @@ int main()
     }
     return 0;
 }
+// para validar o programa copiar e colar esse texto em qualquer compilador que possua IDE destinada a linguagem C, sugestao software codeblocks
